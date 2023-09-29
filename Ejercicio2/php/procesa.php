@@ -16,7 +16,7 @@ if (empty($_GET['monto']) || empty($_GET['divisa'])) {
 
 <main>
     <section class="d-flex row justify-content-center p-5">
-        <article class="w-50 border p-0">
+        <article class="w-50 border-0 p-0">
             <h2 class="table-primary bg-primary m-0">Divisas</h2>
             <h3 class="table-secondary bg-secondary m-0">Compra</h3>
             <h4 class="table-success bg-success m-0">Monto disponible: $
